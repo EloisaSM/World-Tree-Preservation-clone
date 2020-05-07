@@ -1,0 +1,20 @@
+.body{
+    width: 1478px;
+    height: 1571px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header-container{
+    height: 136px;
+    background-color: #4e3c1c;
+}
+
+.container{
+    height: 900px;
+    background-color: blueviolet;
+}
+
+.footer-container{
+    height: 249px;
+    background-color: aqua;
+}
