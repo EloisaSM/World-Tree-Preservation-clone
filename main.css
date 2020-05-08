@@ -1,5 +1,27 @@
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Quattrocento Sans', sans-serif;
+    color: #838383;
+    font-size: 14px;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+    color: #404040;
+}
+
+h1,h2{
+    font-family: 'Rokkitt', serif;
+}
+
+a{
+    color: #cc6a00;
+    text-decoration: none;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
 }
 
 .centralized-container{
