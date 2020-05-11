@@ -1,3 +1,9 @@
+@font-face {
+    font-family: playfair;
+    src: url(fonts/PlayfairDisplay-VariableFont_wght.ttf);
+    
+}
+
 body{
     font-family: 'Quattrocento Sans', sans-serif;
     color: #838383;
@@ -28,12 +34,89 @@ ul{
     margin-left: auto;
     margin-right: auto;
     width: 960px;
-    background-color: burlywood;
+    /* background-color: burlywood; */
+    display: flex;
+    justify-content: center;
+    position: relative;
 }
 
 .header-container{
     height: 136px;
     background-color: #4e3c1c;
+    
+}
+
+.header-title{
+    font-family: playfair;
+    color:#fff600;
+    font-size: 34px;
+    line-height: 1.71;
+    position: absolute;
+    top: 45px;
+    left: 30px;
+}
+
+.header-title-world{
+    color: #fff600;
+}
+
+.header-title-tree{
+    color: #3dae00;
+}
+
+.header-title-preservation{
+    color: #ffffff;
+}
+
+.header-sub-title{
+    font-family: 'Rokkitt-bold', serif;
+    color: #ffffff;
+    font-size: 14px;
+    position: absolute;
+    top: 100px;
+    left: 36px;
+}
+
+.header-menu-bar{    
+    position: absolute;
+    top: 97px;
+    right: 12px;
+}
+
+.header-menu-bar a{
+    font-family: 'Rokkitt-bold', serif;
+    color: #ffffff;
+    padding: 0px 15px;
+    font-size: 16px;
+    
+}
+
+.header-menu-bar a:hover{
+    color: #fff600;
+}
+
+.donate-now{
+    width: 195px;
+    height: 78px;
+    background-color: #8fae00;
+    border: 3px solid #f2f2f2;
+    border-radius: 8.4px;
+    position: absolute;
+    left: 718px;
+    top: -28px;
+}
+
+.donate-now a{
+    font-family: Rokkitt;
+    font-size: 24px;
+    color: #ffffff;
+    position: absolute;
+    left: 17px;
+    top: 45px;
+}
+
+.donate-now:hover{
+    background-color: orange;
 }
 
 .content{
