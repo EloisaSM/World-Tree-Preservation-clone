@@ -22,13 +22,12 @@
 }
 
 .triangle-shape{
-    /* clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%); */
-    /* background-image: url(https://cdn4.iconfinder.com/data/icons/geomicons/32/672339-triangle-right-128.png); */
-    background-image: url(http://placehold.it/3x3);
+    background-image: url(images/iconfinder_triangle-right_293630\ \(1\).png);
     background-repeat: repeat;
-    height: 3px;
+    height: 8px;
     width: 100%;
     margin-top: 10px;
+    background-size: 8px;
 }
 
 .text-1{
