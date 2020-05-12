@@ -1,0 +1,84 @@
+.home-banner{
+    background-color: #8fae00;
+    width: 100%;
+}
+
+.home-banner p{
+    padding-left: 30px;
+}
+.home-banner-2{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 960px;
+}
+
+.banner-image{
+    position: absolute;
+    top: 63px;
+    right: 0;
+    padding-right: 30px;
+
+}
+
+.triangle-shape{
+    background-image: url(images/iconfinder_triangle-right_293630\ \(1\).png);
+    background-repeat: repeat;
+    height: 8px;
+    width: 100%;
+    margin-top: 10px;
+    background-size: 8px;
+}
+
+.text-1{
+    color: #ffffff;
+    font-size: 24px;
+}
+.text-2{
+    color: #ffffff;
+    font-size: 36px;
+}
+
+.text-3{
+    color: #fff600;
+    font-size: 48px;
+}
+
+.text-4{
+    line-height: 20px;
+    padding: 10px 5px;
+}
+
+.content-2-text{
+    padding-left: 10px;
+}
+
+.content-3-border{
+    border-top: 1px solid lightgray;
+    padding-top: 5px;
+    
+}
+
+.container-home{
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding-bottom: 10px;
+}
+
+.content-2{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.content-2 img{
+    padding: 10px;
+}
+
+.content-3{
+    display: flex;
+}

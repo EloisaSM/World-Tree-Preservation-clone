@@ -54,6 +54,16 @@
     content: "\ea96";
 }
 
+.triangle-shape{
+    background-image: url(images/iconfinder_triangle-right_293630\ \(1\).png);
+    background-repeat: repeat;
+    height: 8px;
+    width: 100%;
+    margin-top: 10px;
+    background-size: 8px;
+}
+
+
 body{
     font-family: 'Quattrocento Sans', sans-serif;
     color: #838383;
@@ -173,9 +183,6 @@ ul{
     background-color: orange;
 }
 
-.content{
-    /* background-color: chocolate;  */
-}
 
 .contact-container{
     height: 228px;
