@@ -177,50 +177,6 @@ ul{
     /* background-color: chocolate; */
 }
 
-.home-banner{
-    background-color: #8fae00;
-    width: 100%;
-}
-
-.home-banner-2{
-    display: flex;
-    justify-content: space-between;
-}
-
-.banner-image{
-    background-image: url(http://placehold.it/366x361);
-    background-repeat: no-repeat;
-}
-
-.text-1{
-    color: #ffffff;
-    font-size: 24px;
-}
-.text-2{
-    color: #ffffff;
-    font-size: 36px;
-}
-
-.text-3{
-    color: #fff600;
-    font-size: 48px;
-}
-
-.text-4{
-    line-height: 20px;
-    padding: 10px 5px;
-}
-
-.container-home{
-    margin-left: auto;
-    margin-right: auto;
-    width: 960px;
-    display: flex;
-    justify-content: space-between;
-    position: relative;
-    margin-top: 20px;
-}
-
 .contact-container{
     height: 228px;
     background-color: white;

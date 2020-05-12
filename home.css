@@ -1,0 +1,85 @@
+.home-banner{
+    background-color: #8fae00;
+    width: 100%;
+}
+
+.home-banner p{
+    padding-left: 30px;
+}
+.home-banner-2{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 960px;
+}
+
+.banner-image{
+    position: absolute;
+    top: 63px;
+    right: 0;
+    padding-right: 30px;
+
+}
+
+.triangle-shape{
+    /* clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%); */
+    /* background-image: url(https://cdn4.iconfinder.com/data/icons/geomicons/32/672339-triangle-right-128.png); */
+    background-image: url(http://placehold.it/3x3);
+    background-repeat: repeat;
+    height: 3px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.text-1{
+    color: #ffffff;
+    font-size: 24px;
+}
+.text-2{
+    color: #ffffff;
+    font-size: 36px;
+}
+
+.text-3{
+    color: #fff600;
+    font-size: 48px;
+}
+
+.text-4{
+    line-height: 20px;
+    padding: 10px 5px;
+}
+
+.content-2-text{
+    padding-left: 10px;
+}
+
+.content-3-border{
+    border-top: 1px solid lightgray;
+    padding-top: 5px;
+    
+}
+
+.container-home{
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding-bottom: 10px;
+}
+
+.content-2{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.content-2 img{
+    padding: 10px;
+}
+
+.content-3{
+    display: flex;
+}
