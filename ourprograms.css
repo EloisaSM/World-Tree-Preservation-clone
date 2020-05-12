@@ -1,0 +1,65 @@
+h3,h4{
+    margin: 0;
+}
+
+.content .centralized-container{
+    padding: 50px 0 234px 0;
+}
+
+.centralized-container h3{
+    background: white;
+    padding-bottom: 15px;
+    text-align: initial;
+}
+
+.our-programs-container{
+    width: 220px;
+    height: 722px;
+    background-color: #cc6a00;
+    text-align: center;
+}
+
+.our-programs-container h4{
+    color: white;
+    padding: 15px;
+}
+
+.content .license-container{
+    width: 460px;
+    height: 545px;
+    margin: 60px 20px 0 20px;
+}
+
+.license-container p{
+    line-height: 24px;
+    text-align: left;
+}
+
+.links-column{
+    width: 221px;
+    height: 729px;
+    background-color: #d5d5d5;
+}
+
+.links-column h4{
+    padding: 15px 0px 9px 15px;
+}
+
+.links-column a{
+    display: block;
+    box-sizing: border-box;
+    padding: 4px;
+}
+
+.links-column .links-content{
+    border-bottom: 1px solid white; 
+    padding: 16px;
+}
+.links-column .links-content h4{
+    padding: 0px 0 9px 0;
+}
+
+.links-column .gallery-links{
+    display: flex;
+    padding-left: 15px;
+}
