@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6{
     color: #404040;
 }
 
-h1,h2{
+h1,h2,h3{
     font-family: 'Rokkitt', serif;
 }
 
@@ -183,9 +183,6 @@ ul{
     background-color: orange;
 }
 
-.content{
-    /* background-color: chocolate; */
-}
 
 .contact-container{
     height: 228px;
@@ -312,4 +309,33 @@ ul{
 
 .footer-menu .copyright{
     width: 296px;
+}
+
+.links-column{
+    width: 221px;
+    height: 729px;
+    background-color: #d5d5d5;
+}
+
+.links-column h4{
+    padding: 15px 0px 9px 15px;
+}
+
+.links-column a{
+    display: block;
+    box-sizing: border-box;
+    padding: 4px;
+}
+
+.links-column .links-content{
+    border-bottom: 1px solid white; 
+    padding: 16px;
+}
+.links-column .links-content h4{
+    padding: 0px 0 9px 0;
+}
+
+.links-column .gallery-links{
+    display: flex;
+    padding-left: 15px;
 }
