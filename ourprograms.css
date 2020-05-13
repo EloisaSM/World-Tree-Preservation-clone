@@ -1,7 +1,3 @@
-h3,h4{
-    margin: 0;
-}
-
 .content .centralized-container{
     padding: 50px 0 234px 0;
 }
@@ -33,33 +29,4 @@ h3,h4{
 .license-container p{
     line-height: 24px;
     text-align: left;
-}
-
-.links-column{
-    width: 221px;
-    height: 729px;
-    background-color: #d5d5d5;
-}
-
-.links-column h4{
-    padding: 15px 0px 9px 15px;
-}
-
-.links-column a{
-    display: block;
-    box-sizing: border-box;
-    padding: 4px;
-}
-
-.links-column .links-content{
-    border-bottom: 1px solid white; 
-    padding: 16px;
-}
-.links-column .links-content h4{
-    padding: 0px 0 9px 0;
-}
-
-.links-column .gallery-links{
-    display: flex;
-    padding-left: 15px;
 }

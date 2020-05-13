@@ -73,6 +73,10 @@ h4{
     text-transform: uppercase;
 }
 
+h3, h4{
+    margin: 0;
+}
+
 a{
     color: #cc6a00;
     text-decoration: none;
@@ -92,6 +96,7 @@ ul{
     display: flex;
     justify-content: center;
     position: relative;
+    align-items: flex-start;
 }
 
 .header-container{
@@ -306,8 +311,7 @@ ul{
 
 .links-column{
     width: 221px;
-    height: 729px;
-    background-color: #d5d5d5;
+    background-color: #d5d5d5; 
 }
 
 .links-column h4{
