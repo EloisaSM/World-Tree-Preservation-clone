@@ -345,3 +345,52 @@ p{
     display: flex;
     padding-left: 15px;
 }
+
+.content .post-title{
+    display: flex;
+}
+
+.post-title .post-title-content{
+    padding: 13px;
+}
+
+.comment-box{   
+    margin-left: 300px;
+} 
+
+.content .centralized-container{
+    padding: 50px 0 234px 0;
+}
+
+.posts-box{ 
+    width: 700px;
+    margin-right: 20px;
+}
+
+.posts-box .post-img{
+    margin-top: 19px;
+}
+
+.post-content span{
+    color: #cc6a00;
+}
+.post-title .box-links{
+    padding-top: 5px;
+}
+
+.message-input{
+    width: 462px;
+    height: 127px;
+}
+
+.message-submit-button{
+    margin-top: 5px;
+    width: 183px;
+    height: 34px; 
+    background-color: #8fae00;
+    border: 3px solid #f2f2f2;
+    border-radius: 8.4px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.25);
+    color: white;
+    cursor: pointer;
+} 

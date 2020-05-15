@@ -1,0 +1,48 @@
+
+.posts-box .comment{
+    padding: 32px 0 32px 0;
+}
+
+.posts-box .comment-content{
+    display: flex;
+    margin-bottom: 17px;
+
+}
+
+.posts-box .comment-content img{
+    width: 60px;
+    height: 50px;
+    margin-top: 18px;
+    margin-right: 8px;
+}
+
+.posts-box .comment-content a{
+    display: inline-block;
+    float: right;
+}
+
+.posts-box .comment-content span{
+    color: black;
+}
+
+.posts-box .form-container{
+    margin-top: 34px;
+    display: flex;
+}
+
+.form-container input{
+    margin: 0px 20px 24px 0px;
+}
+
+.form-container h4{
+    margin-bottom: 13px;
+}
+.form-container .user-info  input{
+    width: 200px;
+}
+
+.form-container .message-submit-button{
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 5px;
+}
