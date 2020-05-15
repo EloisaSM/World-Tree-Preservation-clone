@@ -1,0 +1,41 @@
+.contact-title{
+    display: flex;
+    justify-content: left;
+}
+
+.contact-content-1{
+    width: 218px;
+}
+
+.contact-content-2{
+    width: 702px;
+    padding-bottom: 37px;
+}
+
+.choose-contact{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.choose-contact img{
+    padding-right: 70px;
+    padding-left: 58px;
+}
+
+.choose-buttom{
+    width: 195px;
+    height: 78px;
+    background-color: #8fae00;
+    border: 3px solid #f2f2f2;
+    border-radius: 8.4px;
+    font-family: Rokkitt;
+    font-size: 24px;
+    color: #ffffff;
+    padding: 10px 20px;
+    position: absolute;
+}
+
+.choose-buttom-1{
+    position: relative;
+}
