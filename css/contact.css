@@ -45,29 +45,17 @@
     margin-bottom: 55px;
 }
 
-.message-form .message-form-content{
+.message-form .form-container{
     display: flex;
     flex-wrap: wrap;
     width: 463px;
 }
 
-.message-form .message-form-content input{
+.message-form .form-container input{
     width: 200px;
     margin: 13px 20px 24px 0px;
 }
 
 .message-form .message-input{
-    width: 462px;
-    height: 127px;
+    margin-top: 13px;
 }
-
-.message-form .message-submit-button{
-    margin-top: 5px;
-    width: 183px;
-    height: 34px; 
-    background-color: #8fae00;
-    border: 3px solid #f2f2f2;
-    border-radius: 8.4px;
-    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.25);
-    color: white;
-} 

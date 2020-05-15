@@ -1,44 +1,16 @@
-.content .centralized-container{
-    padding: 50px 0 234px 0;
+
+.post-content{
+    display: block;
+    color:#838383 ;
 }
 
-.posts-box{ 
-    width: 700px;
-    margin-right: 20px;
+
+
+.post-content .post-title img{
+    width: 75px;
+    height: 64px;
 }
 
-.posts-box .triangle-shape{ 
-    margin-top: 55px;
-}
-.content .post-title{
-    display: flex;
-}
-
-.post-title .post-title-content{
-    padding: 13px;
-}
-
-.post-title .post-title-content h3{
-    margin-bottom: 13px;
-}
-
-.post-title-content span{
-    color: #838383;
-}
-
-.post-title-content .post-coment{   
-    margin-left: 300px;
-}
-
-.posts-box p{
-    line-height: 24px;
-    font-size: 12px;
-}
-
-.posts-box .post-img{
-    margin-top: 19px;
-}
-
-.content .post-content-two{
-    margin-top: 40px;
+.posts-box .triangle-shape{
+    margin: 10px 0 40px 0;
 }
