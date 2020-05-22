@@ -27,7 +27,6 @@
     position: absolute;
     top: -1px;
     right: 19px;
-   
 }
 
 .arrow-right{
@@ -50,6 +49,11 @@
     padding: 10px;
 }
 
+.gallery-content img{
+    width: 220px;
+    height: 181px;
+}
+
 .gallery-content-1{
     padding: 10px 10px;
     line-height: 20px;
@@ -65,4 +69,55 @@
 
 .gallery-content-4{
     margin-bottom: 290px;
+}
+
+.modal-container{
+    background-color: black;
+    height: 1400px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    box-sizing: border-box;
+    display: none;
+    position: fixed;
+}
+
+.modal-container .main-image{
+    width: 220px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    position: relative;
+    text-align: center;
+
+}
+
+.main-image .modal-image{
+    width: 220px;
+    height: 181px;
+}
+
+.modal-container .close-button{
+    float: right;
+    margin: 11px 30px 0 0px;
+
+}
+.main-image .arrow{
+    position: absolute;
+    top: 76px;
+}
+
+.main-image .left-arrow{
+    left: -3px;
+}
+
+.main-image .right-arrow{
+    right: -3px;
+}
+
+.main-image h4{
+    color: white;
+    font-size: 15px;
+    margin-top: 20px;
 }
